@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+}
+
+div.image{
+  margin: 100px;
+  border: 1px solid #ccc;
+  float: right;
+  width: 180px;
+}
